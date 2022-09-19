@@ -8,7 +8,7 @@
   <a href="https://github.com/frankbolviken/localstorage-hook/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/frankbolviken/localstorage-hook/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/frankbolviken/localstorage-hook/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/frankbolviken/@frankbolviken/localstorage-hook" />
   </a>
 </p>
@@ -63,7 +63,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [Frank Bølviken](https://github.com/frankbolviken).<br />
-This project is [MIT](https://github.com/frankbolviken/localstorage-hook/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/frankbolviken/localstorage-hook/blob/main/LICENSE) licensed.
 
 ---
 
